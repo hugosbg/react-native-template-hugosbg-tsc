@@ -4,7 +4,7 @@ React Native template for a quick start with TypeScript + Paper
 ### :computer: Usage
 
 ```
-npx react-native init ProjectName --template https://github.com/hugosbg/react-native-template-hugosbg-tsc.git
+npx react-native init ProjectName --template react-native-template-hugosbg-tsc
 ```
 
 ### :beetle: Fix
