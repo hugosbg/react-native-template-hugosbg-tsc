@@ -1,4 +1,4 @@
-# react-native-template-hugo-tsc
+# react-native-template-hugosbg-tsc
 React Native template for a quick start with TypeScript + Paper
 
 ### :computer: Usage
