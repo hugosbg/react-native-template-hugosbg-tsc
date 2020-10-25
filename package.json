@@ -1,0 +1,21 @@
+{
+  "name": "react-native-template-hugosbg-tsc",
+  "version": "0.0.1",
+  "description": "React Native template for a quick start with TypeScript.",
+  "author": "Hugo Gomes <hugo.msn@msn.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugosbg/react-native-template-hugosbg-tsc.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "template",
+    "paper"
+  ],
+  "bugs": {
+    "url": "https://github.com/hugosbg/react-native-template-hugosbg-tsc/issues"
+  },
+  "homepage": "https://github.com/hugosbg/react-native-template-hugosbg-tsc#readme"
+}
